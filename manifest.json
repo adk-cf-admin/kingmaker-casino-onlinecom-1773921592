@@ -1,0 +1,19 @@
+{
+  "name": "Kingmaker",
+  "short_name": "Kingmaker",
+  "theme_color": "",
+  "background_color": "#2D0E4D",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1773920712-favicon-14.svg",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}
